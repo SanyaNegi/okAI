@@ -25,3 +25,6 @@ length n_features.
 intercept_ : array
 
 Independent term in the linear model.
+
+
+CHANGE 2
